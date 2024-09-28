@@ -1,0 +1,3 @@
+D:/Web/All in/C/School managemnt system/cmake-build-debug/CMakeFiles/School_managemnt_system.dir
+D:/Web/All in/C/School managemnt system/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Web/All in/C/School managemnt system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
